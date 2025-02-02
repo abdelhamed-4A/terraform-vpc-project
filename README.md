@@ -17,7 +17,7 @@ This project automates the creation of the following AWS resources using Terrafo
 - **Route Tables**: To manage traffic between subnets and the internet.
 
 ### Architecture Diagram
-
+```bash
 +-------------------+
 |     Internet      |
 +-------------------+
@@ -36,7 +36,7 @@ This project automates the creation of the following AWS resources using Terrafo
 +-------------------+
 |     VPC (10.0.0.0/16)    |
 +-------------------+
-
+```
 
 
 ### Features
