@@ -18,7 +18,7 @@ This project automates the creation of the following AWS resources using Terrafo
 
 ### Architecture Diagram
 
-![Demo](/assetes/Record.gif)
+![Architecture](/terraform-vpc/day1D.png)
 
 ### Features
 
